@@ -20,7 +20,6 @@ class App extends Component {
               height="30"
               alt="React Logo (example image)"
             />
-
             <Link to="/" className="navbar-brand">
               MERN-Stack Todo App
             </Link>
